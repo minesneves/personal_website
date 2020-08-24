@@ -1,0 +1,11 @@
+# Font style metadata
+name = "my_font"
+
+# Optional Google font URL
+google_fonts = "Montserrat:300,400,600|Open+Sans:300,300italic,300|Roboto+Mono"
+
+# Font families
+heading_font = "Montserrat"
+body_font = "Open Sans"
+nav_font = "Montserrat"
+mono_font = "Open Sans"
