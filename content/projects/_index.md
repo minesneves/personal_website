@@ -9,7 +9,7 @@ type: "widget_page"  # Page type is a Widget Page
 
 ## PhD project
 
-My PhD project focuses on schistosomiasis, a debilitating Neglected Tropical Disease caused by parasitic worms called schistosomes and affects more than 200 million people worldwide. During the past three years, I have been developing statistical and mathematical models to further understand the population biology and transmission dynamics of schistosomiasis, under supervision of [Dr. Martin Walker](https://www.rvc.ac.uk/about/our-people/martin-walker) and [Prof. Joanne Webster](https://www.rvc.ac.uk/about/our-people/joanne-webster).
+My PhD project focuses on schistosomiasis, a debilitating Neglected Tropical Disease caused by parasitic worms called schistosomes that affects more than 200 million people worldwide. During the past three years, I have been developing statistical and mathematical models to further understand the population biology and transmission dynamics of schistosomiasis, under supervision of [Dr. Martin Walker](https://www.rvc.ac.uk/about/our-people/martin-walker) and [Prof. Joanne Webster](https://www.rvc.ac.uk/about/our-people/joanne-webster).
 My PhD is based at the [Royal Veterinary College](https://www.rvc.ac.uk/) and is affiliated with the [London Centre for Neglected Tropical Disease Research](https://www.londonntd.org/research/researchers/maria-inês-neves).
 
 <br>
@@ -22,7 +22,7 @@ The aim of my Master of Research was to investigate [the transmission dynamics o
 
 <br>
 
-During my Veterinary Medicine degree, I became interested in epidemiology and the transmission dynamics of animal and human diseases, which led me to pursue an MRes and a PhD in mathematical and statistical epidemiology. My thesis was conducted at the Technical University of Denmark, under supervision of Dr. Maarten Nauta, and focused on [comparing and evaluating outputs from deterministic and stochastic consumer phase models for quantitative risk assessment of foodborne diseases.](https://www.sciencedirect.com/science/article/abs/pii/S235235221730107X)
+During my Veterinary Medicine degree, I became interested in epidemiology and the transmission dynamics of animal and human diseases, which led me to pursue an MRes and a PhD in mathematical and statistical epidemiology. My thesis was conducted at the Technical University of Denmark, under supervision of Dr. Maarten Nauta, and focused on [comparing and evaluating outputs from deterministic and stochastic consumer phase models for quantitative risk assessment of foodborne diseases.](https://www.sciencedirect.com/science/article/abs/pii/S235235221730107X) Shortly after, I interned  at [SAFOSO](https://www.safoso.ch/), a consultancy and capacity-building company based in Bern, where I conducted a risk assessment of human exposure to Methicillin-Resistant Staphylococcus Aureus (MRSA) from dogs, under supervision of Dr. Jorge Pinto Ferreira and Prof. Katharina Stärk.
 
 <br>
 
